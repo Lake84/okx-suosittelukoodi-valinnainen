@@ -2,7 +2,7 @@
 <p>Etsitkö toimivaa OKX-suosittelukoodia? Oikealla koodilla voit säästää merkittävästi kaupankäyntikuluissa heti ensimmäisestä päivästä alkaen.</p>
 <p>Käyttämällä koodia <strong>SAFE20</strong>, saat 20 % alennuksen kaupankäyntikuluista – pysyvästi. Se on yksi parhaista tarjolla olevista eduista OKX:ssä tänä vuonna.</p>
 
-<img src="https://github.com/Lake84/okx-suosittelukoodi-valinnainen/blob/main/okx-suosittelukoodi-valinnainen-alennus-s%C3%A4%C3%A4st%C3%A4-20-kaupank%C3%A4yntikuluissa.jpg?raw=true" alt="OKX Referral Code: SAFE20" width="1080">
+<img src="https://github.com/Lake84/okx-suosittelukoodi-valinnainen/blob/main/okx-suosittelukoodi-valinnainen-alennus-s%C3%A4%C3%A4st%C3%A4-20-kaupank%C3%A4yntikuluissa-suomi.jpg?raw=true" alt="OKX Referral Code: SAFE20" width="1080">
 
 
 👉 <a href="https://www.okx.com/join/SAFE20" target="_blank">Sign Up with Code SAFE20 and Claim Your Bonus</a>
