@@ -5,7 +5,7 @@
 <img src="https://github.com/Lake84/okx-suosittelukoodi-valinnainen/blob/main/okx-suosittelukoodi-valinnainen-alennus-s%C3%A4%C3%A4st%C3%A4-20-kaupank%C3%A4yntikuluissa-suomi.jpg?raw=true" alt="OKX Referral Code: SAFE20" width="1080">
 
 
-👉 <a href="https://www.okx.com/join/SAFE20" target="_blank">Sign Up with Code SAFE20 and Claim Your Bonus</a>
+👉 <a href="https://www.okx.com/join/SAFE20" target="_blank"><strong>Sign Up with Code SAFE20 and Claim Your Bonus</strong></a>
 
 <h2>📝 Näin käytät suosittelukoodia SAFE20 (vaiheittain)</h2>
 <ol>
@@ -130,4 +130,4 @@
 <p><strong>👉 Luo tili OKX:ään ja käytä koodia SAFE20</strong><br>
 🚀 Nauti kaupankäynnistä – nyt 20 % halvemmalla!</p>
 
-👉 <a href="https://www.okx.com/join/SAFE20" target="_blank">Sign Up with Code SAFE20 and Claim Your Bonus</a>
+👉 <a href="https://www.okx.com/join/SAFE20" target="_blank"><strong>Sign Up with Code SAFE20 and Claim Your Bonus</strong></a>
