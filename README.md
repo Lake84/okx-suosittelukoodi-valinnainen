@@ -9,7 +9,7 @@
 
 <h2>📝 Näin käytät suosittelukoodia SAVING20 (vaiheittain)</h2>
 <ol>
-  <li>Mene osoitteeseen: <a href="https://www.okx.com/join/SAVING20" target="_blank">OKX Rekisteröitymissivu</a></li>
+  <li>Mene osoitteeseen: <a href="https://www.okx.com/join/SAVING20" target="_blank"><strong>OKX Rekisteröitymissivu</strong></a></li>
   <li>Syötä sähköpostisi tai puhelinnumerosi</li>
   <li>Luo turvallinen salasana</li>
   <li>Lisää koodi kohtaan “suosittelukoodi”: <strong>SAVING20</strong></li>
