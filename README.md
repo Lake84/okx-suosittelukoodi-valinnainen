@@ -9,7 +9,7 @@
 
 <h2>📝 Näin käytät suosittelukoodia SAFE20 (vaiheittain)</h2>
 <ol>
-  <li>Mene osoitteeseen: <a href="https://www.okx.com/join/SAFE20" target="_blank">OKX Rekisteröitymissivu</a></li>
+  <li>Mene osoitteeseen: <a href="https://www.okx.com/join/SAFE20" target="_blank"><strong>OKX Rekisteröitymissivu</strong>strong></a></li>
   <li>Syötä sähköpostisi tai puhelinnumerosi</li>
   <li>Luo turvallinen salasana</li>
   <li>Lisää koodi kohtaan “suosittelukoodi”: <strong>SAFE20</strong></li>
