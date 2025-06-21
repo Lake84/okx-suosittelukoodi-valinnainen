@@ -5,7 +5,7 @@
 <img src="https://preview.redd.it/okx-referral-code-optional-20saving-get-a-20-discount-on-v0-h1tcvlim228f1.png?width=1536&format=png&auto=webp&s=76aa3cf73166bfc37b63e9f7852dac8458efd248" alt="OKX Referral Code: SAVING20" width="1080">
 
 
-👉 <a href="https://www.okx.com/join/SAVING20" target="_blank">Sign Up with Code SAVING20 and Claim Your Bonus</a>
+👉 <a href="https://www.okx.com/join/SAVING20" target="_blank"><strong>Sign Up with Code SAVING20 and Claim Your Bonus</strong></a>
 
 <h2>📝 Näin käytät suosittelukoodia SAVING20 (vaiheittain)</h2>
 <ol>
@@ -130,4 +130,4 @@
 <p><strong>👉 Luo tili OKX:ään ja käytä koodia SAVING20</strong><br>
 🚀 Nauti kaupankäynnistä – nyt 20 % halvemmalla!</p>
 
-👉 <a href="https://www.okx.com/join/SAVING20" target="_blank">Sign Up with Code SAVING20 and Claim Your Bonus</a>
+👉 <a href="https://www.okx.com/join/SAVING20" target="_blank"><strong>Sign Up with Code SAVING20 and Claim Your Bonus</strong></a>
