@@ -2,7 +2,7 @@
 <p>Etsitkö toimivaa suosittelukoodia OKX:ään vuonna 2025? Oikealla koodilla voit säästää merkittävästi kaupankäyntikuluissa heti ensimmäisestä päivästä alkaen.</p>
 <p>Käyttämällä koodia <strong>SAVING20</strong>, saat 20 % alennuksen kaupankäyntikuluista – pysyvästi. Se on yksi parhaista tarjolla olevista eduista OKX:ssä tänä vuonna.</p>
 
-<img src="https://github.com/Lake84/okx-suosittelukoodi-valinnainen/blob/main/okx-suosittelukoodi-valinnainen-alennus-s%C3%A4%C3%A4st%C3%A4-20-kaupank%C3%A4yntikuluissa.png?raw=true" alt="OKX Referral Code: SAVING20" width="1080">
+<img src="https://github.com/Lake84/okx-suosittelukoodi-valinnainen/blob/main/okx-suosittelukoodi-valinnainen-alennus-s%C3%A4%C3%A4st%C3%A4-20-kaupank%C3%A4yntikuluissa.jpg?raw=true" alt="OKX Referral Code: SAVING20" width="1080">
 
 
 👉 <a href="https://www.okx.com/join/SAVING20" target="_blank"><strong>Sign Up with Code SAVING20 and Claim Your Bonus</strong></a>
